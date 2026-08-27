@@ -1,5 +1,6 @@
 # Intelligent Customer Support & Ticketing Engine
 #LIVE DEMO:-https://sentinalai-chi.vercel.app/
+
 An advanced, full-stack ticketing system that leverages AI to automate customer support triage. It uses the Gemini API to analyze incoming support requests, classify them, detect sentiment, assign priority, calculate SLAs, and generate draft responses, while using Firebase Firestore for durable data persistence.
 
 ## 🚀 Core Features
