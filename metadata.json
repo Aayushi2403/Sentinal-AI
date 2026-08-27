@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Support Desk",
+  "description": "Enterprise-ready helpdesk with AI automated ticket categorization, sentiment analysis, smart reply drafting, and SLA automation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
